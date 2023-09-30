@@ -13,11 +13,11 @@ This is a simple Python game you can play in your computer's terminal. Your cat 
 To run the program: Clone the GitHub repo and run the terminal command below to start the game.
 
 ```
-python lib/cli.py
+python cli.py
 
 ```
 
-Follow the prompts on the screen to find your cat and bring her home! 
+Follow the prompts on the screen to find your cat and bring her home!
 
 ## Maintainer
 
