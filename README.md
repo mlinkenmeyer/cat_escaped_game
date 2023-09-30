@@ -13,6 +13,13 @@ This is a simple Python game you can play in your computer's terminal. Your cat 
 To run the program: Clone the GitHub repo and run the terminal command below to start the game.
 
 ```
+python3 cli.py
+
+```
+
+Depending on the version of Python you have installed, you may need to use this terminal command instead:
+
+```
 python cli.py
 
 ```
