@@ -1,0 +1,78 @@
+
+#start_game 
+You’re winding down for the night, and realize you haven’t 
+seen your cat since you got home earlier. You look all over 
+and conclude she must have escaped when you last opened your door!
+            
+What’s your first step to find your cat? 
+    
+    1. Make “missing cat” posters to hang up around your neighborhood
+    2. Go outside to look for her near your home. 
+
+Type 1 or 2 to choose your first step.
+
+#If option 1
+There's no time to make posters right now. 
+                    
+Your cat could still be close by!
+                    
+Try again...
+
+#If option 2             
+Good choice! Let's check outside...
+*Move to next question
+            
+#look_outside
+Outside, you have many options to look for your cat. 
+Choose wisely or you'll lose time to find her!
+            
+Where do you look first? 
+    
+    1. At your neighbor's home.
+    
+    2. Under the stairs leading to your front door.  
+    
+    3. In the landscaping shrubs. 
+    
+    4. Under the vehicles in the driveway.
+
+Type 1, 2, 3, or 4 to choose your first step.
+
+#If option 1
+Your neighbors don't have her!
+            
+Try again...
+
+#If option 2  
+There she is! 
+*Move to next question
+
+#If option 3
+She's not in the landscaping!
+                             
+Try again..."""
+
+#If option 4
+She's not under any of vehicles!
+                             
+Try again..."""
+
+#under_the_stairs
+Your cat didn't go far from her home after all. 
+              
+How do you get your cat out from under the stairs?
+            
+1. Use treats. 
+2. Use her favorite toy.
+
+#If option 1
+Good pick...your cat is obsessed with treats. 
+    
+You grab your cat as soon as she's close enough and take her back inside. 
+    
+You've beat the game - congrats!
+
+#If option 2
+She's too scared to play with her favorite toy.
+              
+Try again...
